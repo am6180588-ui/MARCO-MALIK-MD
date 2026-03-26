@@ -28,7 +28,7 @@ await conn.sendMessage(from,{
 video:{ url: video },
 caption:`🎬 TikTok Video
 
-> Powered By Zᴀʜɪᴅ Kɪɴɢ`
+> Powered By 𝑀𝐴𝑅𝐶𝑂 𝑀𝐴𝐿𝐼𝐾`
 },{ quoted: mek })
 
 } catch(e) {
